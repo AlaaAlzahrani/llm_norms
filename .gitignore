@@ -7,5 +7,7 @@ __pycache__/
 *.pyc
 
 # files
-data/output/
-data/input/
+data/output/*
+data/input/*
+!data/output/.gitkeep
+!data/input/.gitkeep
