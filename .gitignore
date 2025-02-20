@@ -1,9 +1,10 @@
 # Python virtual environment
 env/
 *env/
-.env/
+.env
 venv/
 .venv/
+.env/
 
 # Python byte-compiled files
 __pycache__/
