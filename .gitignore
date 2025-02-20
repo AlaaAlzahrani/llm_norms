@@ -1,18 +1,10 @@
 # Python virtual environment
 env/
-*env/
 .env
 
 # Python byte-compiled files
 __pycache__/
-*.py[cod]
 *.pyc
-*$py.class
-
-# Distribution / packaging
-dist/
-build/
-*.egg-info/
 
 # files
 data/output/
